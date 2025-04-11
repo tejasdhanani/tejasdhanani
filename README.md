@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻 Software Developer based in Vancouver<br>🔭 I’m currently working on my personal projects<br>🌱 I’m currently learning TypeScript<br>👯 I’m looking for a full-time opportunity in software development in Canada<br>📫 How to reach me: tejas27dhanani@gmail.com<br>⚡ Fun fact: I enjoy playing Tennis, 8 ball pool and stargazing. 
+<!--👨‍💻 Software Developer based in Vancouver<br>🔭 I’m currently working on my personal projects<br>🌱 I’m currently learning TypeScript<br>👯 I’m looking for a full-time opportunity in software development in //Canada<br>-->
+📫 How to reach me: tejas27dhanani@gmail.com<br>⚡ Fun fact: I enjoy playing Tennis, 8 ball pool and stargazing. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/joao-camara](https://www.linkedin.com/in/tejasdhanani/)) 
